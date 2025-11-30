@@ -1,12 +1,12 @@
-#Python 🐍 – Object-Oriented Calculator
+# Python 🐍 – Object-Oriented Calculator
 
 **First project** for learning purposes – created on: 30.11.2025
 
 **Project goal:**
 Create an object-oriented calculator capable of performing various mathematical operations. Gradually added features with each update.
 
-##Features & Updates
-Initial version – 30.11.2025
+## Features & Updates
+**Initial version** – 30.11.2025
  - Addition
 
  - Subtraction
