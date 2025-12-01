@@ -24,3 +24,13 @@ Create an object-oriented calculator capable of performing various mathematical 
  - Continuous menu loop with exit option
 
  - Input handling via helper method (pobierz_2_liczby) to avoid code repetition
+  
+## Features & Updates
+**Initial version** – 1.12.2025
+in this update i added
+
+ - Multiplication
+ - Division
+- Exponentiation
+- Square root
+- Operation history
