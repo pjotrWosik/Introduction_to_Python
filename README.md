@@ -34,3 +34,4 @@ in this update i added
 - Exponentiation
 - Square root
 - Operation history
+✅**Status:** Project_1 completed
